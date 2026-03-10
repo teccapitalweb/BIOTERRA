@@ -244,3 +244,41 @@ section { padding: 90px 0; }
   .modal__content { padding: 24px; }
   .hero-placeholder { padding: 28px; }
 }
+
+
+.hero-card--logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+  background:
+    radial-gradient(circle at top, rgba(46, 116, 255, .16), transparent 55%),
+    linear-gradient(180deg, rgba(8, 27, 59, .9), rgba(5, 18, 40, .98));
+}
+
+.hero-logo-image {
+  width: min(560px, 100%);
+  max-height: 520px;
+  object-fit: contain;
+  filter: drop-shadow(0 18px 40px rgba(0, 0, 0, .28));
+}
+
+.modal__benefits {
+  display: grid;
+  gap: 12px;
+  margin: 18px 0 26px;
+}
+
+.modal__benefit {
+  padding: 14px 16px;
+  border-radius: 16px;
+  background: rgba(255, 255, 255, .05);
+  border: 1px solid rgba(255, 255, 255, .08);
+  color: var(--text);
+  line-height: 1.5;
+}
+
+@media (max-width: 760px) {
+  .hero-card--logo { padding: 20px; }
+  .hero-logo-image { width: min(460px, 100%); max-height: 380px; }
+}

@@ -10,7 +10,7 @@ const coursesData = [
       "Manejo responsable",
       "Aplicaciones educativas"
     ],
-    "modality": "Modalidad flexible",
+    "modality": "Modalidad Online",
     "cta": "Solicitar información"
   },
   {
@@ -24,7 +24,7 @@ const coursesData = [
       "Buenas prácticas",
       "Prevención sanitaria"
     ],
-    "modality": "Modalidad flexible",
+    "modality": "Modalidad Online",
     "cta": "Solicitar información"
   },
   {
@@ -38,7 +38,7 @@ const coursesData = [
       "Monitoreo ambiental",
       "Marco de conservación"
     ],
-    "modality": "Modalidad flexible",
+    "modality": "Modalidad Online",
     "cta": "Solicitar información"
   },
   {
@@ -52,7 +52,7 @@ const coursesData = [
       "Amenazas antropogénicas",
       "Protección y rescate"
     ],
-    "modality": "Modalidad flexible",
+    "modality": "Modalidad Online",
     "cta": "Solicitar información"
   },
   {
@@ -66,7 +66,7 @@ const coursesData = [
       "Ventajas del sistema",
       "Operación sustentable"
     ],
-    "modality": "Modalidad flexible",
+    "modality": "Modalidad Online",
     "cta": "Solicitar información"
   },
   {
@@ -80,7 +80,7 @@ const coursesData = [
       "Cumplimiento regulatorio",
       "Responsabilidad ambiental"
     ],
-    "modality": "Modalidad flexible",
+    "modality": "Modalidad Online",
     "cta": "Solicitar información"
   },
   {
@@ -94,7 +94,7 @@ const coursesData = [
       "Manejo seguro",
       "Canalización y reporte"
     ],
-    "modality": "Modalidad flexible",
+    "modality": "Modalidad Online",
     "cta": "Solicitar información"
   },
   {
@@ -108,7 +108,7 @@ const coursesData = [
       "Monitoreo básico",
       "Sostenibilidad hídrica"
     ],
-    "modality": "Modalidad flexible",
+    "modality": "Modalidad Online",
     "cta": "Solicitar información"
   },
   {
@@ -122,7 +122,7 @@ const coursesData = [
       "Prevención",
       "Bioseguridad"
     ],
-    "modality": "Modalidad flexible",
+    "modality": "Modalidad Online",
     "cta": "Solicitar información"
   },
   {
@@ -136,7 +136,7 @@ const coursesData = [
       "Planeación técnica",
       "Seguimiento y evaluación"
     ],
-    "modality": "Modalidad flexible",
+    "modality": "Modalidad Online",
     "cta": "Solicitar información"
   },
   {
@@ -150,7 +150,7 @@ const coursesData = [
       "Factores de riesgo",
       "Protocolos preventivos"
     ],
-    "modality": "Modalidad flexible",
+    "modality": "Modalidad Online",
     "cta": "Solicitar información"
   },
   {
@@ -164,7 +164,7 @@ const coursesData = [
       "Calidad del agua",
       "Buenas prácticas"
     ],
-    "modality": "Modalidad flexible",
+    "modality": "Modalidad Online",
     "cta": "Solicitar información"
   },
   {
@@ -178,7 +178,7 @@ const coursesData = [
       "Amenazas",
       "Conservación"
     ],
-    "modality": "Modalidad flexible",
+    "modality": "Modalidad Online",
     "cta": "Solicitar información"
   },
   {
@@ -192,7 +192,7 @@ const coursesData = [
       "Monitoreo",
       "Conservación marina"
     ],
-    "modality": "Modalidad flexible",
+    "modality": "Modalidad Online",
     "cta": "Solicitar información"
   },
   {
@@ -206,7 +206,7 @@ const coursesData = [
       "Selección y manejo",
       "Aplicaciones ambientales"
     ],
-    "modality": "Modalidad flexible",
+    "modality": "Modalidad Online",
     "cta": "Solicitar información"
   },
   {
@@ -220,7 +220,7 @@ const coursesData = [
       "Amenazas",
       "Protección"
     ],
-    "modality": "Modalidad flexible",
+    "modality": "Modalidad Online",
     "cta": "Solicitar información"
   },
   {
@@ -234,7 +234,7 @@ const coursesData = [
       "Medidas de mitigación",
       "Presentación técnica"
     ],
-    "modality": "Modalidad flexible",
+    "modality": "Modalidad Online",
     "cta": "Solicitar información"
   },
   {
@@ -248,7 +248,7 @@ const coursesData = [
       "Variables ambientales",
       "Aplicaciones de monitoreo"
     ],
-    "modality": "Modalidad flexible",
+    "modality": "Modalidad Online",
     "cta": "Solicitar información"
   }
 ];
