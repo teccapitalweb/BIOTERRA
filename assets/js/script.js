@@ -64,7 +64,12 @@ function openCourseModal(id) {
 
   courseModal.classList.add('is-open');
   courseModal.setAttribute('aria-hidden', 'false');
-  document.body.style.overflow = 'hidden';
+  if (window.innerWidth > 760) {
+    document.body.style.overflow = 'hidden';
+  } else {
+    document.body.style.overflow = '';
+  }
+  courseModal.scrollTop = 0;
 }
 
 function closeCourseModal() {

@@ -317,3 +317,53 @@ section { padding: 90px 0; }
     padding: 22px;
   }
 }
+
+
+/* Ajustes reales para móvil */
+@media (max-width: 760px) {
+  .hero-card--main.hero-card--logo {
+    min-height: 320px;
+    height: 320px;
+    padding: 14px;
+  }
+
+  .hero-card--logo .hero-logo-image {
+    width: 68%;
+    max-width: 220px;
+    height: auto;
+    max-height: 170px;
+    object-fit: contain;
+    margin: 0 auto;
+  }
+
+  .modal.is-open {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+  }
+
+  .modal {
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    overscroll-behavior: contain;
+  }
+
+  .modal__dialog {
+    display: block;
+    width: 100%;
+    max-height: none;
+    overflow: visible;
+    margin: 10px 0 28px;
+  }
+
+  .modal__image-wrap img {
+    height: 220px;
+    min-height: 220px;
+  }
+
+  .modal__content {
+    overflow: visible;
+    max-height: none;
+    -webkit-overflow-scrolling: touch;
+  }
+}
