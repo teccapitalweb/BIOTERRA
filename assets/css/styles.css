@@ -452,3 +452,17 @@ section { padding: 90px 0; }
     animation-duration: 26s;
   }
 }
+
+
+.logo-bioterra{
+height:120px;
+width:auto;
+display:inline-block;
+vertical-align:middle;
+}
+
+@media (max-width:768px){
+.logo-bioterra{
+height:80px;
+}
+}
