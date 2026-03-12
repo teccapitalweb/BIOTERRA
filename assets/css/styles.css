@@ -293,8 +293,8 @@ section { padding: 90px 0; }
 @media (max-width: 760px) {
   .hero-card--logo { padding: 18px; }
   .hero-logo-image {
-    width: min(300px, 78%);
-    max-height: 240px;
+    width: min(400px, 90%);
+    max-height: 340px;
     margin: 0 auto;
   }
   .modal {
