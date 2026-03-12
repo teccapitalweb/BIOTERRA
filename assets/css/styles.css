@@ -328,10 +328,10 @@ section { padding: 90px 0; }
   }
 
   .hero-card--logo .hero-logo-image {
-    width: 68%;
-    max-width: 220px;
+    width: 90%;
+    max-width: 400px;
     height: auto;
-    max-height: 170px;
+    max-height: 340px;
     object-fit: contain;
     margin: 0 auto;
   }
